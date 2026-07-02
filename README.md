@@ -12,7 +12,7 @@ THEMES: www.hockeycomputindo.com/themes
 
 ART: www.creativitas.dev
 
-## 🚀 Media Compressor for Web Performance
+## 🚀 Media Compressor for Web Performances
 
 Compress images to **WebP** and videos to **MP4** automatically while preserving your folder structure.  
 Optimized to boost **Lighthouse** scores — smaller files, faster loading.
